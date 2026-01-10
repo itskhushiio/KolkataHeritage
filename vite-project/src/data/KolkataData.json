@@ -1,0 +1,205 @@
+{
+    "artItems": [
+        {
+            "id": 1,
+            "title": "Traditional Terracotta Art",
+            "category": "Terracotta",
+            "description": "Ancient Bengali terracotta art showcasing intricate designs and patterns that have been passed down through generations.",
+            "imageUrl": "https://images.unsplash.com/photo-1641542809337-d779189f8564?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZXJyYWNvdHRhJTIwYXJ0JTIwYmVuZ2FsfGVufDF8fHx8MTc2NDY3MDM2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+            "year": "19th Century"
+        },
+        {
+            "id": 2,
+            "title": "Bengali Alpana Design",
+            "category": "Alpana",
+            "description": "Traditional Bengali alpana floor art created during festivals and celebrations, symbolizing prosperity and welcome.",
+            "imageUrl": "https://images.unsplash.com/photo-1757351122506-3c6a394e9cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhbHBhbmElMjByYW5nb2xpJTIwYmVuZ2FsaXxlbnwxfHx8fDE3NjQ2NzAzNjB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        },
+        {
+             "id": 3,
+            "title": "Kolkata Tram Heritage",
+            "category": "Old Photos",
+            "description": "Vintage photograph of Kolkata's iconic tram system, one of the oldest operating electric tram networks in Asia.",
+            "imageUrl": "https://images.unsplash.com/photo-1646983418757-207420381a5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxrb2xrYXRhJTIwdHJhbSUyMHZpbnRhZ2V8ZW58MXx8fHwxNzY0NjcwMzYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "year": "1950s"
+        },
+        {
+            "id": 4,
+            "title": "Heritage Architecture",
+            "category": "Old Photos",
+            "description": "Historic photograph capturing the colonial architecture and vibrant street life of old Kolkata.",
+            "imageUrl": "https://images.unsplash.com/photo-1569564161148-5c34311fa682?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxrb2xrYXRhJTIwYXJjaGl0ZWN0dXJlJTIwaGVyaXRhZ2V8ZW58MXx8fHwxNzY0NjcwMzYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "year": "1940s"
+        },
+        {
+            "id": 5,
+            "title": "Bengali Calligraphy",
+            "category": "Calligraphy",
+            "description": "Handwritten Bengali calligraphy showcasing the beautiful curves and artistic flow of the Bengali script.",
+            "imageUrl": "https://images.unsplash.com/photo-1620968277880-a795336583ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiZW5nYWxpJTIwY2FsbGlncmFwaHklMjBzY3JpcHR8ZW58MXx8fHwxNzY0NjcwMzYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "artist": "Unknown"
+        },
+        {
+            "id": 6,
+            "title": "Terracotta Pottery",
+            "category": "Terracotta",
+            "description": "Traditional Bengali terracotta pottery crafted by local artisans, representing the rich cultural heritage of the region.",
+            "imageUrl": "hhttps://images.unsplash.com/photo-1526461591544-198d2190f270?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjB0ZXJyYWNvdHRhJTIwcG90dGVyeXxlbnwxfHx8fDE3NjQ2NzAzNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        },
+        {
+            "id": 7,
+            "title": "Rangoli Floor Art",
+            "category": "Alpana",
+            "description": "Intricate rangoli design similar to Bengali alpana, featuring geometric patterns and vibrant colors.",
+            "imageUrl": "https://images.unsplash.com/photo-1605302977140-6572a4421aef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjByYW5nb2xpJTIwYXJ0fGVufDF8fHx8MTc2NDY3MDM2M3ww&ixlib=rb-4.1.0&q=80&w=1080"
+        },
+        {
+            "id": 8,
+            "title": "Traditional Script Art",
+            "category": "Calligraphy",
+            "description": "Ancient Bengali manuscript showcasing the evolution of handwritten Bengali calligraphy through the ages.",
+            "imageUrl": "https://images.unsplash.com/photo-1620968277880-a795336583ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxiZW5nYWxpJTIwY2FsbGlncmFwaHklMjBzY3JpcHR8ZW58MXx8fHwxNzY0NjcwMzYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+            "year": "18th Century"
+        }
+    ],
+ 
+  "stories": [
+    {
+      "id": 1,
+      "title": "Hand Pulled Rickshaws",
+      "excerpt": "The iconic hand-pulled rickshaws of Kolkata, a living heritage of the city's past.",
+      "fullStory": "The hand-pulled rickshaws of Kolkata are more than just a mode of transportation—they are a living piece of history. Introduced in the 1800s, these rickshaws became an integral part of Kolkata's identity, particularly in areas like Chinatown and during the monsoon season when narrow lanes flood with water.\n\nThe rickshaw pullers, mostly migrants from Bihar and Uttar Pradesh, have been the silent heroes of Kolkata's streets for generations. Each rickshaw tells a story—of struggle, of survival, and of an era that refuses to fade away completely.\n\nDuring the monsoon, when the city's drainage system fails and water logging becomes severe, these rickshaws transform from outdated relics to essential lifelines. They navigate through knee-deep water where no car or auto-rickshaw dares to venture.\n\nToday, Kolkata remains the last city in India where hand-pulled rickshaws still operate, though their numbers have dwindled significantly. They represent a complex intersection of heritage, labor rights, and modernization—a reminder of the city's layered history and the human stories that weave through its streets.\n\nDespite debates about their relevance and ethical concerns, these rickshaws continue to be a symbol of Kolkata's ability to hold onto its past while moving forward into the future.",
+      "imageUrl": "https://images.unsplash.com/photo-1738854928996-5a8635de958f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "era": "1800s - Present"
+    },
+    {
+      "id": 2,
+      "title": "Tram Culture",
+      "excerpt": "Kolkata's heritage trams, the oldest operating electric tram network in Asia.",
+      "fullStory": "The rhythmic clang of Kolkata's trams is a sound that has echoed through the city's streets for over 140 years. Introduced in 1873 as horse-drawn carriages and electrified in 1902, Kolkata's tram system is the oldest operating electric tram network in Asia.\n\nFor generations of Kolkatans, trams have been more than just transportation—they are mobile museums, classroom routes, and romantic evening rides all rolled into one. The green and cream colored trams trundling down the streets have witnessed the city's transformation from colonial Calcutta to modern Kolkata.\n\nThe experience of riding a Kolkata tram is unique—the gentle swaying motion, the breeze flowing through open windows, the conductor's rhythmic bell, and the leisurely pace that allows passengers to observe the city's life unfold. Unlike the rush of modern transport, trams offer a meditative journey through time.\n\nCollege Street, Esplanade, Shyambazar—these routes have carried students, office-goers, and lovers for decades. Many of Kolkata's elderly residents have memories of their first jobs, first dates, and daily commutes intertwined with these trams.\n\nToday, despite modernization and the rise of the Metro, these heritage trams continue to operate, protected by heritage laws and championed by nostalgia. They represent Kolkata's commitment to preserving its history while adapting to the future—a moving monument to a bygone era that refuses to be forgotten.",
+      "imageUrl": "https://images.unsplash.com/photo-1646983418757-207420381a5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "era": "1873 - Present"
+    },
+    {
+      "id": 3,
+      "title": "College Street Books",
+      "excerpt": "The legendary book market where knowledge flows through narrow lanes and century-old bookstores.",
+      "fullStory": "College Street in Kolkata is not just a street—it's an institution, a pilgrimage site for book lovers, and home to the world's largest second-hand book market. This approximately one-kilometer stretch has been the intellectual heart of the city for over two centuries.\n\nThe aroma of old books mixed with fresh tea from the Indian Coffee House, the sight of towering stacks of books reaching up to the ceiling, and the sound of passionate debates about literature and politics—this is College Street, where time seems to stand still.\n\nThe area houses dozens of publishing houses, bookstores, and countless street vendors selling everything from rare first editions to cheap photocopies. Here, you can find a century-old Shakespeare collection next to the latest bestseller, all at prices that make knowledge accessible to everyone.\n\nFor generations of students from nearby Presidency College and Calcutta University, College Street has been the starting point of intellectual journeys. Legendary figures like Rabindranath Tagore, Satyajit Ray, and Amartya Sen have walked these lanes, browsing through books that would shape their world views.\n\nThe street's bookstores have their own personalities—some specialize in rare medical texts, others in Bengali literature, and some in revolutionary Marxist pamphlets. The vendors know their customers by name and can recommend books with uncanny accuracy.\n\nEven in the age of Amazon and Kindle, College Street thrives. It represents Kolkata's love affair with the written word, where books are not commodities but companions, where reading is not a hobby but a way of life.",
+      "imageUrl": "https://images.unsplash.com/photo-1763562597716-68adb3f7f896?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "era": "1800s - Present"
+    },
+    {
+      "id": 4,
+      "title": "Durga Puja Nostalgia",
+      "excerpt": "The festival that transforms Kolkata into the world's largest open-air art gallery and cultural celebration.",
+      "fullStory": "Durga Puja is not just a festival in Kolkata—it's an emotion, an identity, and the city's annual transformation into a dreamscape. For five days in autumn, the entire city becomes a carnival of art, culture, food, and community spirit that transcends religious boundaries.\n\nThe preparation begins months in advance. Neighborhoods pool resources, artists conceptualize themes, artisans create magnificent pandals (temporary structures), and the entire city buzzes with anticipation. Children count down days, new clothes are bought, and the air fills with the fragrance of shiuli flowers and incense.\n\nWhat makes Kolkata's Durga Puja unique is its evolution into a platform for contemporary art and social commentary. Pandals have recreated the Sistine Chapel, raised environmental concerns, celebrated unsung heroes, and pushed the boundaries of creativity. Each year, themes become more ambitious, turning neighborhoods into immersive art installations.\n\nThe nostalgia lies in the traditions that remain unchanged—the dhaki's drum beats during Sandhi Puja at midnight, the priest's Sanskrit chants, families gathering for Anjali prayers, friends embarking on all-night pandal hopping marathons, and the bittersweet Bijoya Dashami when the goddess returns to her heavenly abode.\n\nFor Bengalis living away from home, Durga Puja evokes memories of childhood—the new clothes worn for all five days, the unlimited street food, staying up past bedtime, the excitement of visiting the biggest pandals, and the collective joy that united the entire city.\n\nEven as the festival has grown grander and more commercial, its essence remains rooted in community, creativity, and the celebration of good over evil. UNESCO's recognition of Kolkata's Durga Puja as Intangible Cultural Heritage of Humanity in 2021 was a global acknowledgment of what Bengalis have always known—this is more than a festival; it's a way of life.",
+      "imageUrl": "https://images.unsplash.com/photo-1728364282429-16c8c00c254c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "era": "Centuries Old Tradition"
+    }
+  ],
+
+  "festivals": [
+    {
+      "name": "Pohela Boishakh",
+      "month": "April",
+      "description": "Bengali New Year marks the first day of the Bengali calendar. Celebrated with processions, traditional music, and cultural programs.",
+      "imageUrl": "https://images.unsplash.com/photo-1760098571181-705c0f9925fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "color": "bg-green-500"
+    },
+    {
+      "name": "Rath Yatra",
+      "month": "June/July",
+      "description": "The chariot festival of Lord Jagannath, celebrated with massive decorated chariots.",
+      "imageUrl": "https://images.unsplash.com/photo-1720545412233-9accb72c20e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "color": "bg-yellow-500"
+    },
+    {
+      "name": "Durga Puja",
+      "month": "September/October",
+      "description": "The biggest festival of West Bengal with pandals, art installations, and celebrations.",
+      "imageUrl": "https://images.unsplash.com/photo-1603773589379-fb255ef06269?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "color": "bg-red-500"
+    },
+    {
+      "name": "Kali Puja",
+      "month": "October/November",
+      "description": "Celebrated on Diwali night, dedicated to Goddess Kali.",
+      "imageUrl": "https://images.unsplash.com/photo-1760857292437-d0b1e36ee9e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "color": "bg-purple-500"
+    },
+    {
+      "name": "Diwali",
+      "month": "October/November",
+      "description": "Festival of Lights celebrated across India with diyas, rangoli, and fireworks.",
+      "imageUrl": "https://images.unsplash.com/photo-1700245461198-de5bd40adda5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "color": "bg-orange-500"
+    },
+    {
+      "name": "Saraswati Puja",
+      "month": "January/February",
+      "description": "Worship of Goddess Saraswati celebrated in schools & colleges.",
+      "imageUrl": "https://images.unsplash.com/photo-1708889263516-b2fbd26bb088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "color": "bg-blue-500"
+    }
+  ],
+
+  "heritageLocations": [
+    {
+      "id": 1,
+      "name": "Victoria Memorial",
+      "description": "A magnificent white marble monument built between 1906 and 1921.",
+      "imageUrl": "https://images.unsplash.com/photo-1697817665440-f988c6d5080f?q=80&w=1080",
+      "lat": 22.5448,
+      "lng": 88.3426,
+      "category": "Monument"
+    },
+    {
+      "id": 2,
+      "name": "Howrah Bridge",
+      "description": "An iconic cantilever bridge over the Hooghly River.",
+      "imageUrl": "https://images.unsplash.com/photo-1677307816181-1446ab18913e?q=80&w=1080",
+      "lat": 22.5851,
+      "lng": 88.3468,
+      "category": "Bridge"
+    },
+    {
+      "id": 3,
+      "name": "Dakshineswar Temple",
+      "description": "Temple built in 1855, associated with Ramakrishna Paramahamsa.",
+      "imageUrl": "https://images.unsplash.com/photo-1607511591809-c93ff9ea5b15?q=80&w=1080",
+      "lat": 22.6568,
+      "lng": 88.3685,
+      "category": "Temple"
+    },
+    {
+      "id": 4,
+      "name": "Indian Museum",
+      "description": "Established in 1814 — the oldest and largest museum in India.",
+      "imageUrl": "https://images.unsplash.com/photo-1641022514327-c93b1a5dfeef?q=80&w=1080",
+      "lat": 22.5579,
+      "lng": 88.3511,
+      "category": "Museum"
+    },
+    {
+      "id": 5,
+      "name": "College Street",
+      "description": "World’s largest second-hand book market.",
+      "imageUrl": "https://images.unsplash.com/photo-1763562597716-68adb3f7f896?q=80&w=1080",
+      "lat": 22.5726,
+      "lng": 88.3639,
+      "category": "Cultural Hub"
+    },
+    {
+      "id": 6,
+      "name": "Marble Palace",
+      "description": "19th-century mansion with Victorian-era interior and sculptures.",
+      "imageUrl": "https://images.unsplash.com/photo-1724650965526-4ab37c60a3f9?q=80&w=1080",
+      "lat": 22.5828,
+      "lng": 88.3596,
+      "category": "Palace"
+    }
+  ]
+}
+
+
+
